@@ -1,4 +1,4 @@
-obj-m += hello.o
+obj-m += firstModule.o
 
 KDIR = /usr/src/linux-headers-4.4.0-45-generic
 
